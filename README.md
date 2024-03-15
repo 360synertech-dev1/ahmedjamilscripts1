@@ -1,4 +1,4 @@
-Hostinger login credentials where both kpi bot and mls-bot are hosted:
+Adam Hostinger login credentials where both kpi bot and mls-bot are hosted:
 
 Username: ssh root@85.31.235.165
 
